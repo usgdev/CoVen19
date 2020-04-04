@@ -3,5 +3,5 @@ Project CoVen19 is breathing ventilator developed using standard supply already 
 
 <h1>Concept</h1>
 
-<img src="/images/CoVen19_v0.5_03.JPG">
+<img src="https://github.com/udaygohel/CoVen19/blob/master/Images/CoVen19_v0.5_03.JPG?raw=true">
 <p>this is test para</p>
