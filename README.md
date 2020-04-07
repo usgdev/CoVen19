@@ -72,7 +72,7 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 7. nema_mount_plate_drilled.DXF
 8. nema_mount_plate_support.DXF
 9. pressure_plate.DXF
-10 side_enclosure_left.DXF
+10. side_enclosure_left.DXF
 11. side_enclosure_right.DXF
 
 
