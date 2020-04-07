@@ -20,7 +20,8 @@ used in UK hospitals during the current SARS-CoV2 outbreak. It sets out the clin
 [![CoVen19 How BVM Works?](https://img.youtube.com/vi/Douv4EPk_jA/0.jpg)](https://www.youtube.com/embed/Douv4EPk_jA)
 
 # Source Code
-## [Please find full source code here for v0.5](https://github.com/USGDEV/CoVen19/tree/master/SOURCE/Arduino/CoVen19_release_v0.5)
+### [Please find full source code here for v0.5](https://github.com/USGDEV/CoVen19/tree/master/SOURCE/Arduino/CoVen19_release_v0.5)
+
 ```C++
 
 //Forward/reverse stepping function
@@ -55,5 +56,9 @@ void ForwardBackwardStep()
 ```
 
 # Enclosure
+Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally available easily in market. 5mm sheet cutting is quick and sturdiness will be good enough to hold ventilator assembly all together, enclosure is essential to handle the ventilator without damaging internal parts.
+
+### [Here is DXF 2D files provided for laser cutting v0.5](https://github.com/USGDEV/CoVen19/tree/master/DXF/Laser_Cut_v0.5)
+
 
 
