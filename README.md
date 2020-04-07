@@ -75,4 +75,5 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 10. side_enclosure_left.DXF
 11. side_enclosure_right.DXF
 
-
+### Important Note:
+**CoVen19 v0.5 enclosure design compatible with stepper motor model ![LGA421S14-A-UIEV-038](https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/) or motor with similar specification in order to actuator length, motor/mount screw dimensions etc. Please make sure that the stepper motor you are using is similar. OR make necessary changes to DXF files.** 
