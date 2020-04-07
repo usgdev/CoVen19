@@ -18,3 +18,37 @@ used in UK hospitals during the current SARS-CoV2 outbreak. It sets out the clin
 # How BVM(Bag Valve Mask), PEEP Valves and Diverters works?
 
 [![CoVen19 How BVM Works?](https://img.youtube.com/vi/Douv4EPk_jA/0.jpg)](https://www.youtube.com/embed/Douv4EPk_jA)
+
+# Source Code
+## Eaxample Source Code for Arduino UNO
+
+'''
+//Forward/reverse stepping function
+void ForwardBackwardStep()
+{
+  Serial.println("Alternate between stepping forward and reverse.");
+  for(x= 1; x<5; x++)  //Loop the forward stepping enough times for motion to be visible
+  {
+    //Read direction pin state and change it
+    state=digitalRead(dir);
+    if(state == HIGH)
+    {
+      digitalWrite(dir, LOW);
+    }
+    else if(state ==LOW)
+    {
+      digitalWrite(dir,HIGH);
+    }
+
+    for(y=0; y<1000; y++)
+    {
+      digitalWrite(stp,HIGH); //Trigger one step
+      delay(1);
+      digitalWrite(stp,LOW); //Pull step pin low so it can be triggered again
+      delay(1);
+    }
+  }
+  Serial.println("Enter new option:");
+  Serial.println();
+}
+'''
