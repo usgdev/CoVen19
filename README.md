@@ -7,4 +7,4 @@ used in UK hospitals during the current SARS-CoV2 outbreak. It sets out the clin
 
 # Pandemic Ventilator Design Challenge
 
-[![Alt text](ttps://img.youtube.com/vi/Gu4sChU9eBo/0.jpg)](https://www.youtube.com/watch?v=Gu4sChU9eBo)
+[![Alt text](https://img.youtube.com/vi/Gu4sChU9eBo/0.jpg)](https://www.youtube.com/watch?v=Gu4sChU9eBo)
