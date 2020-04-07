@@ -74,3 +74,5 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 9. pressure_plate.DXF
 10 side_enclosure_left.DXF
 11. side_enclosure_right.DXF
+
+
