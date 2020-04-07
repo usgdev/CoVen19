@@ -75,7 +75,5 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 10. side_enclosure_left.DXF
 11. side_enclosure_right.DXF
 
-As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+
