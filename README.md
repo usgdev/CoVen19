@@ -22,7 +22,8 @@ used in UK hospitals during the current SARS-CoV2 outbreak. It sets out the clin
 # Source Code
 ## Eaxample Source Code for Arduino UNO
 
-'''
+'''C++
+
 //Forward/reverse stepping function
 void ForwardBackwardStep()
 {
@@ -51,4 +52,5 @@ void ForwardBackwardStep()
   Serial.println("Enter new option:");
   Serial.println();
 }
+
 '''
