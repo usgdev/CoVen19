@@ -63,15 +63,14 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 
 ![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/Images/enclosure_laser_cut_parts_v0.5.JPG)
 
-* ambubag_air_release_plate.DXF
-* body_base_plate.DXF
-* body_enclosure_cover.DXF
-* body_handle_plate.DXF
-* body_safety_plate_.DXF
-* electronics_mount_panel.DXF
-* enclosure_laser_cut_parts_v0.5.dxf
-* nema_mount_plate_drilled.DXF
-* nema_mount_plate_support.DXF
-* pressure_plate.DXF
-* side_enclosure_left.DXF
-* side_enclosure_right.DXF
+1. ambubag_air_release_plate.DXF
+2. body_base_plate.DXF
+3. body_enclosure_cover.DXF
+4. body_handle_plate.DXF
+5. body_safety_plate_.DXF
+6. electronics_mount_panel.DXF
+7. nema_mount_plate_drilled.DXF
+8. nema_mount_plate_support.DXF
+9. pressure_plate.DXF
+10 side_enclosure_left.DXF
+11. side_enclosure_right.DXF
