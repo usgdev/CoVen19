@@ -76,4 +76,30 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 11. side_enclosure_right.DXF
 
 ### Important Note:
-**CoVen19 v0.5 enclosure design compatible with stepper motor model [LGA421S14-A-UIEV-038](https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/) or motor with similar specification in order to actuator length, motor/mount screw dimensions etc. Please make sure that the stepper motor you are using is similar. OR make necessary changes to DXF files.** 
+**CoVen19 v0.5 enclosure design compatible with stepper motor model [LGA421S14-A-UIEV-038](https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/) or motor with similar specification in order to actuator length, motor/mount screw dimensions etc. Please make sure that the stepper motor you are using is similar. OR make necessary changes to DXF files.**
+
+![LGA42 motor](https://en.nanotec.com/fileadmin/_processed_/8/c/csm_LGA42-A_0f076de561.gif)
+
+Please refer detailed document and information [here](https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/)
+
+
+# Components Used
+
+Component Name | Ref Links
+------------ | -------------
+NEMA LGA42 Motor | https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/
+Arduino UNO r3 | https://store.arduino.cc/usa/arduino-uno-rev3
+SparkFun EasyDriver | https://www.sparkfun.com/products/12779
+Generic Power Supply | https://www.amazon.com/MEAN-WELL-RD-65A-Output-Enclosed/dp/B005T7EZM8/
+Ambu Bag (BVM) | https://www.amazon.com/Adult-Simple-Breathing-Apparatus-Kit/dp/B085ZLVMZ3/
+Mains Power Supply Cable | https://www.secomp-international.com/en_US/roline-power-cable-with-schuko-connector-open-end-ac-230v-bl/i/19.08.1111-10
+OLED Display | https://www.amazon.com/dp/B00O2LLT30
+Rotary Potentiometer | https://www.amazon.in/pack-potentiometer-single-variable-resistor/dp/B07L3YQ4NT
+Black Metal Knob | https://www.sparkfun.com/products/10002
+Rocker Switch | https://www.sparkfun.com/products/8837
+M3 Screw 8mm | https://www.amazon.com/dp/B01IWUSDYY and https://www.amazon.com/uxcell-M3x8mm-Thread-Button-Socket/dp/B01B1OD62C
+90 Degree Bracket Joint | https://www.ebay.com/itm/90-Degree-Right-Angle-Stainless-Steel-Support-Shelf-Bracket-Joint-Corner-Brace-/183693072726
+Acrylic sheet | https://www.amazon.com/dp/B07MWXWDKQ
+
+### Important Note:
+**Above listed links are just for reference, You can buy components from any where you wish to.**
