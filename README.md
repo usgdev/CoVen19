@@ -63,18 +63,21 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 
 ![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/Images/enclosure_laser_cut_parts_v0.5.JPG)
 
-1. ambubag_air_release_plate.DXF
-2. body_base_plate.DXF
-3. body_enclosure_cover.DXF
-4. body_handle_plate.DXF
-5. body_safety_plate_.DXF
-6. electronics_mount_panel.DXF
-7. nema_mount_plate_drilled.DXF
-8. nema_mount_plate_support.DXF
-9. pressure_plate.DXF
-10. side_enclosure_left.DXF
-11. side_enclosure_right.DXF
-
+1. actuator_arm_left.DXF
+2. actuator_arm_right.DXF
+3. actuator_support_plate.DXF
+4. ambubag_air_release_plate.DXF
+5. body_base_plate.DXF
+6. body_enclosure_cover.DXF
+7. body_handle_plate.DXF
+8. body_safety_plate.DXF
+9. electronics_mount_panel.DXF
+10. nema_mount_plate.DXF
+11. nut_connector_plate.DXF
+12. pressure_plate_sloted.DXF
+13. side_enclosure_left.DXF
+14. side_enclosure_right.DXF
+    
 # Components Used
 
 Component Name | Ref Links
@@ -102,4 +105,5 @@ You can get a testing lungs that mimics some functions of human lung for testing
 
 # Components
 
-![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_parts_v0.7.jpg)
+![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/all_parts_laser_cut_v0.7.jpg)
+
