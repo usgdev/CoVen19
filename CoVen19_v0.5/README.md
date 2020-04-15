@@ -1,7 +1,9 @@
+# CoVen19 Version 0.7
+
 # CoVen19
 Project CoVen19 is breathing ventilator developed using standard supply already available in market easily, can be manufactured in large quantities with lowest possible resources in pandemic scenario.
 
-![CoVen19](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_v0.7_01.JPG)
+![CoVen19](https://github.com/USGDEV/CoVen19/blob/master/Images/CoVen19_v0.5_01.JPG)
 
 # Pandemic Ventilator Design Guideline
 This is a specification of the minimally (and some preferred options) clinically acceptable ventilator to be
@@ -20,7 +22,7 @@ used in UK hospitals during the current SARS-CoV2 outbreak. It sets out the clin
 [![CoVen19 How BVM Works?](https://img.youtube.com/vi/Douv4EPk_jA/0.jpg)](https://www.youtube.com/embed/Douv4EPk_jA)
 
 # Source Code
-### [Please find full source code here for v0.5](https://github.com/USGDEV/CoVen19/tree/master/SOURCE/Arduino/CoVen19_release_v0.7)
+### [Please find full source code here for v0.5](https://github.com/USGDEV/CoVen19/tree/master/SOURCE/Arduino/CoVen19_release_v0.5)
 
 ```C++
 
@@ -58,7 +60,7 @@ void ForwardBackwardStep()
 # Enclosure
 Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally available easily in market. 5mm sheet cutting is quick and sturdiness will be good enough to hold ventilator assembly all together, enclosure is essential to handle the ventilator without damaging internal parts.
 
-### [Here is DXF 2D files provided for laser cutting v0.7](https://github.com/USGDEV/CoVen19/tree/master/CoVen19_v0.7/DXF)
+### [Here is DXF 2D files provided for laser cutting v0.5](https://github.com/USGDEV/CoVen19/tree/master/DXF/Laser_Cut_v0.5)
 
 
 ![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/Images/enclosure_laser_cut_parts_v0.5.JPG)
@@ -74,6 +76,14 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 9. pressure_plate.DXF
 10. side_enclosure_left.DXF
 11. side_enclosure_right.DXF
+
+### Important Note:
+**CoVen19 v0.5 enclosure design compatible with stepper motor model [LGA421S14-A-UIEV-038](https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/) or motor with similar specification in order to actuator length, motor/mount screw dimensions etc. Please make sure that the stepper motor you are using is similar. OR make necessary changes to DXF files.**
+
+![LGA42 motor](https://en.nanotec.com/fileadmin/_processed_/8/c/csm_LGA42-A_0f076de561.gif)
+
+Please refer detailed document and information [here](https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/)
+
 
 # Components Used
 
@@ -99,7 +109,3 @@ Acrylic sheet | https://www.amazon.com/dp/B07MWXWDKQ
 
 # Testing Equipments (Not a Part of CoVen19)
 You can get a testing lungs that mimics some functions of human lung for testing your ventilator, [here is example link.](https://www.amazon.com/gp/product/B0767RBQ1H)
-
-# Components
-
-![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_parts_v0.7.jpg)
