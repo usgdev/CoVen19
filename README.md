@@ -104,6 +104,6 @@ You can get a testing lungs that mimics some functions of human lung for testing
 
 # Components
 
-![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_v0.7_01.JPG)
+![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_parts_v0.7.jpg)
 
 
