@@ -64,7 +64,6 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 
 Sr.No. | DXF File Name | ID
 ------------ | ------------- | -------------
-
 1. | actuator_arm_left.DXF | EN01
 2. actuator_arm_right.DXF
 3. actuator_support_plate.DXF
