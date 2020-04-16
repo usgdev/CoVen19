@@ -81,8 +81,10 @@ No. | ID | DXF File Name
     
 # Components Used
 
-Component Name | Ref Links
------------- | -------------
+ID | Part Name | Ref Links/Remarks
+------------ | ------------- | -------------
+
+
 NEMA LGA42 Motor | https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/
 Arduino UNO r3 | https://store.arduino.cc/usa/arduino-uno-rev3
 SparkFun EasyDriver | https://www.sparkfun.com/products/12779
