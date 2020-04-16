@@ -60,8 +60,7 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 
 ### [Here is DXF 2D files provided for laser cutting v0.7](https://github.com/USGDEV/CoVen19/tree/master/CoVen19_v0.7/DXF)
 
-
-![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/Images/enclosure_laser_cut_parts_v0.5.JPG)
+![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/all_parts_laser_cut_v0.7.jpg)
 
 1. actuator_arm_left.DXF
 2. actuator_arm_right.DXF
@@ -105,5 +104,6 @@ You can get a testing lungs that mimics some functions of human lung for testing
 
 # Components
 
-![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/all_parts_laser_cut_v0.7.jpg)
+![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_v0.7_01.JPG)
+
 
