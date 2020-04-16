@@ -62,7 +62,10 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 
 ![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/all_parts_laser_cut_v0.7.jpg)
 
-1. actuator_arm_left.DXF
+Sr.No. | DXF File Name | ID
+------------ | ------------- | -------------
+
+1. | actuator_arm_left.DXF | EN01
 2. actuator_arm_right.DXF
 3. actuator_support_plate.DXF
 4. ambubag_air_release_plate.DXF
