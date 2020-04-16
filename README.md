@@ -81,9 +81,23 @@ No. | ID | DXF File Name
     
 # Components Used
 
-ID | Part Name | Ref Links/Remarks
------------- | ------------- | -------------
-
+No. | ID | Part Name | Ref Links/Remarks
+------------ | ------------ | ------------- | -------------
+1 | PT01 | Arduino UNO R3 | https://store.arduino.cc/usa/arduino-uno-rev3
+2 | PT02 | SparkFun EasyDriver | https://www.sparkfun.com/products/12779
+3 | PT03 | 12v Power Supply | https://www.amazon.com/MEAN-WELL-RD-65A-Output-Enclosed/dp/B005T7EZM8/
+4 | PT04 | NEMA 17 Motor | Link
+5 | PT05 | 5mmX8mm Coupler | Link
+6 | PT06 | 8mmX100mm Lead Screw | Link
+7 | PT07 | OLED 128X64 Display | Link
+8 | PT08 | 100K Potentiometer | Link
+9 | PT09 | Rocker Switch | Link
+10 | PT10 | BVM Ambubag 350~450ml | Link
+11 | PT11 | Jumper Wires | Link
+12 | PT12 | PCB Self Adhesive Mounts | Link
+13 | PT13 | M3X8mm Nema Mount Screw | Link
+14 | PT14 | M3X10mm Bracket Nut-Bolt | Link
+15 | PT15 | 90 Degree Brackets | Link
 
 NEMA LGA42 Motor | https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/
 Arduino UNO r3 | https://store.arduino.cc/usa/arduino-uno-rev3
