@@ -81,6 +81,8 @@ No. | ID | DXF File Name
     
 # Components Used
 
+![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_parts_v0.7.jpg)
+
 No. | ID | Part Name | Ref Links/Remarks
 ------------ | ------------ | ------------- | -------------
 1 | PT01 | Arduino UNO R3 | https://store.arduino.cc/usa/arduino-uno-rev3
@@ -99,29 +101,15 @@ No. | ID | Part Name | Ref Links/Remarks
 14 | PT14 | M3X10mm Bracket Nut-Bolt | Link
 15 | PT15 | 90 Degree Brackets | Link
 
-NEMA LGA42 Motor | https://us.nanotec.com/products/2782-lga421s14-a-uiev-038/
-Arduino UNO r3 | https://store.arduino.cc/usa/arduino-uno-rev3
-SparkFun EasyDriver | https://www.sparkfun.com/products/12779
-Generic Power Supply | https://www.amazon.com/MEAN-WELL-RD-65A-Output-Enclosed/dp/B005T7EZM8/
-Ambu Bag (BVM) | https://www.amazon.com/Adult-Simple-Breathing-Apparatus-Kit/dp/B085ZLVMZ3/
-Mains Power Supply Cable | https://www.secomp-international.com/en_US/roline-power-cable-with-schuko-connector-open-end-ac-230v-bl/i/19.08.1111-10
-OLED Display | https://www.amazon.com/dp/B00O2LLT30
-Rotary Potentiometer | https://www.amazon.in/pack-potentiometer-single-variable-resistor/dp/B07L3YQ4NT
-Black Metal Knob | https://www.sparkfun.com/products/10002
-Rocker Switch | https://www.sparkfun.com/products/8837
-M3 Screw 8mm | https://www.amazon.com/dp/B01IWUSDYY and https://www.amazon.com/uxcell-M3x8mm-Thread-Button-Socket/dp/B01B1OD62C
-90 Degree Bracket Joint | https://www.ebay.com/itm/90-Degree-Right-Angle-Stainless-Steel-Support-Shelf-Bracket-Joint-Corner-Brace-/183693072726
-Acrylic sheet | https://www.amazon.com/dp/B07MWXWDKQ
+## Detailed BOM for v0.7 can be found [HERE](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/BOM/CoVen19_BOM_v0.7_r1.xlsx).
 
-
-### Important Note:
+## Important Note:
 **Above listed links are just for reference, You can buy components from any where you wish to.**
 
 # Testing Equipments (Not a Part of CoVen19)
 You can get a testing lungs that mimics some functions of human lung for testing your ventilator, [here is example link.](https://www.amazon.com/gp/product/B0767RBQ1H)
 
-# Components
 
-![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_parts_v0.7.jpg)
+
 
 
