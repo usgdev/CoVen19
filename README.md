@@ -72,27 +72,12 @@ No. | ID | DXF File Name
 6 | EN06 | ambubag_air_release_plate.DXF
 7 | EN07 | electronics_mount_panel.DXF
 8 | EN08 | actuator_arm_left.DXF
-9 | EN09 | actuator_arm_left.DXF
-10 | EN10 | actuator_arm_left.DXF
-11 | EN11 | actuator_arm_left.DXF
-12 | EN12 | actuator_arm_left.DXF
-13 | EN13 | actuator_arm_left.DXF
-14 | EN14 | actuator_arm_left.DXF
-
-1. | actuator_arm_left.DXF | EN01
-2. actuator_arm_right.DXF
-3. actuator_support_plate.DXF
-4. 
-5. body_base_plate.DXF
-6. body_enclosure_cover.DXF
-7. body_handle_plate.DXF
-8. body_safety_plate.DXF
-9. 
-10. 
-11. nut_connector_plate.DXF
-12. pressure_plate_sloted.DXF
-13. 
-14. 
+9 | EN09 | actuator_arm_right.DXF
+10 | EN10 | body_handle_plate.DXF
+11 | EN11 | actuator_support_plate.DXF
+12 | EN12 | pressure_plate_sloted.DXF
+13 | EN13 | body_safety_plate.DXF
+14 | EN14 | nut_connector_plate.DXF
     
 # Components Used
 
