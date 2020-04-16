@@ -62,24 +62,37 @@ Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally av
 
 ![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/all_parts_laser_cut_v0.7.jpg)
 
-Sr.No. | DXF File Name | ID
+No. | ID | DXF File Name
 ------------ | ------------- | -------------
-1 | actuator_arm_left.DXF | EN01
+1 | EN01 | side_enclosure_right.DXF
+2 | EN02 | side_enclosure_left.DXF
+3 | EN03 | body_base_plate.DXF
+4 | EN01 | body_enclosure_cover.DXF
+5 | EN05 | nema_mount_plate.DXF
+6 | EN06 | ambubag_air_release_plate.DXF
+7 | EN07 | electronics_mount_panel.DXF
+8 | EN08 | actuator_arm_left.DXF
+9 | EN09 | actuator_arm_left.DXF
+10 | EN10 | actuator_arm_left.DXF
+11 | EN11 | actuator_arm_left.DXF
+12 | EN12 | actuator_arm_left.DXF
+13 | EN13 | actuator_arm_left.DXF
+14 | EN14 | actuator_arm_left.DXF
 
 1. | actuator_arm_left.DXF | EN01
 2. actuator_arm_right.DXF
 3. actuator_support_plate.DXF
-4. ambubag_air_release_plate.DXF
+4. 
 5. body_base_plate.DXF
 6. body_enclosure_cover.DXF
 7. body_handle_plate.DXF
 8. body_safety_plate.DXF
-9. electronics_mount_panel.DXF
-10. nema_mount_plate.DXF
+9. 
+10. 
 11. nut_connector_plate.DXF
 12. pressure_plate_sloted.DXF
-13. side_enclosure_left.DXF
-14. side_enclosure_right.DXF
+13. 
+14. 
     
 # Components Used
 
