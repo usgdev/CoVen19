@@ -3,6 +3,17 @@ Project CoVen19 is breathing ventilator developed using standard supply already 
 
 ![CoVen19](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_v0.7_01.JPG)
 
+# Current Development Version CoVen19 v0.7
+CoVen19 v0.7 has following changes/updates as per latest commits:
+- [x] DIY Actuator Assembly 2D DXF files Included
+- [ ] Arduino UNO Firmware .ino file release(Source Code v0.7)
+- [ ] Wiring schematics release(v0.7)
+- [x] Updated 3D files in .STL file release
+- [x] Simplified enclosure assembly design
+- [x] Fixed Enclosure assembly Tab and Slot clearance
+- [x] Updated BOM release in .xlsx file(v0.7)
+- [x] Components reference images included
+
 # Pandemic Ventilator Design Guideline
 This is a specification of the minimally (and some preferred options) clinically acceptable ventilator to be
 used in UK hospitals during the current SARS-CoV2 outbreak. It sets out the clinical requirements based on the consensus of what is ‘minimally acceptable’ performance in the opinion of the anaesthesia and intensive care medicine professionals and medical device regulators...Read more on official page https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification
