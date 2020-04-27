@@ -70,7 +70,7 @@ void ForwardBackwardStep()
 Enclosure design based on laser cutting of 5mm acrylic or pvc sheet, normally available easily in market. 5mm sheet cutting is quick and sturdiness will be good enough to hold ventilator assembly all together, enclosure is essential to handle the ventilator without damaging internal parts.
 
 ### [Here is DXF 2D files provided for laser cutting v0.7](https://github.com/USGDEV/CoVen19/tree/master/CoVen19_v0.7/DXF)
-![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_parts_v0.7.jpg)
+![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/all_parts_laser_cut_v0.7.jpg)
 ![CoVen19 Enclosure](https://github.com/USGDEV/CoVen19/blob/master/CoVen19_v0.7/Images/CoVen19_enclosure_look.png)
 
 No. | ID | DXF File Name
