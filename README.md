@@ -31,38 +31,48 @@ used in UK hospitals during the current SARS-CoV2 outbreak. It sets out the clin
 [![CoVen19 How BVM Works?](https://img.youtube.com/vi/Douv4EPk_jA/0.jpg)](https://www.youtube.com/embed/Douv4EPk_jA)
 
 # Source Code
-### [Please find full source code here for v0.5](https://github.com/USGDEV/CoVen19/tree/master/SOURCE/Arduino/CoVen19_release_v0.7)
+### [Please find full source code here for v0.7](https://github.com/USGDEV/CoVen19/tree/master/SOURCE/Arduino/CoVen19_release_v0.7)
 
 ```C++
 
-//Forward/reverse stepping function
-void ForwardBackwardStep()
-{
-  Serial.println("Alternate between stepping forward and reverse.");
-  for(x= 1; x<5; x++)  //Loop the forward stepping enough times for motion to be visible
-  {
-    //Read direction pin state and change it
-    state=digitalRead(dir);
-    if(state == HIGH)
-    {
-      digitalWrite(dir, LOW);
-    }
-    else if(state ==LOW)
-    {
-      digitalWrite(dir,HIGH);
-    }
+//Ventilator code 
+//Version 1.0.0
 
-    for(y=0; y<1000; y++)
-    {
-      digitalWrite(stp,HIGH); //Trigger one step
-      delay(1);
-      digitalWrite(stp,LOW); //Pull step pin low so it can be triggered again
-      delay(1);
-    }
-  }
-  Serial.println("Enter new option:");
-  Serial.println();
-}
+//Breath Cycle parameters
+int Inhalation_time_set[] = {1500, 1380, 1290, 1200, 1130, 1060, 1000, 950, 900}; //in milli seconds
+int current_Inhalation_time = Inhalation_time_set[0];
+const int current_Hold_Pause_time = 300; //Hold time does not change ever
+int Exhalation_time_set[] = {3200, 2930, 2700, 2500, 2330, 2170, 2030, 1910, 1800}; //in milli seconds
+int current_Exhalation_time = Exhalation_time_set[0];
+
+//Air Volume control potentiometer parameters
+int Actuator_displacement[] = {20, 40, 60, 80, 100}; //in mm
+int corrent_Actuator_displacement = Actuator_displacement[0];
+
+//Debug variables
+boolean debug_output = true; //If false no serial output, to see output on serial true it
+
+
+//Pin Definations
+const int POT_BTH = A0;
+const int POT_AVC = A1;
+
+
+
+//Motor Related
+//define Pins
+int Step   =  6;
+int Dir    =  7;
+int MS1    =  4;
+int MS2    =  5;
+
+//define variables
+int   direction        = 0;      //direction is either "0" or "1" to choose direction
+float cycle            = 1;      //cycle can be in decimal 1 is 360 rotation and 0.5 is 180 degree
+float time_for_cycles  = 0;      //time for total cycle is in milisecond so it can be in decimal
+
+int   SelectResolution = 0;      //Resolution table given below
+int   StepsPerRevo     = 0;
 
 ```
 
