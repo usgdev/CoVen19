@@ -1,5 +1,5 @@
 //Ventilator code 
-//Version 1.0.0
+//Version 0.7
 
 //Breath Cycle parameters
 int Inhalation_time_set[] = {1500, 1380, 1290, 1200, 1130, 1060, 1000, 950, 900}; //in milli seconds
